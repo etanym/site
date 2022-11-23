@@ -209,7 +209,7 @@ progress_status:
   status_heading: ''
   status_help: ''
   status_types: []
-remote_data_prefix: 'https://etanym.github.io/data/'
+remote_data_prefix: 'https://sdgsdgtest.github.io/data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -224,8 +224,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/etanym/data'
-repository_url_site: 'https://github.com/etanym/site'
+repository_url_data: 'https://github.com/sdgsdgtest/data'
+repository_url_site: 'https://github.com/sdgsdgtest/site'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
